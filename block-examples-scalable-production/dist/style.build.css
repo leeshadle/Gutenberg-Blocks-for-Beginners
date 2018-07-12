@@ -1,0 +1,62 @@
+.wp-block-block-examples-block-examples-02-stylesheets-block {
+	color:darkred;
+	background:#fcc;
+	border:2px solid #9c9;
+	padding:20px;
+}.wp-block-block-examples-block-examples-03-editable-block {
+	color: darkred;
+	background: #fcc;
+	border: 2px solid #9c9;
+	padding: 20px;
+}
+.wp-block-block-examples-block-examples-04-controls-block {
+	color: darkred;
+	background: #fcc;
+	border: 2px solid #9c9;
+	padding: 20px;
+}
+.wp-block-block-examples-block-examples-05-media-upload-block {
+ 	background: #f7f7f7;
+ 	border-radius: 4px;
+ 	padding:30px;
+ 	box-shadow: 0 1px 3px rgba(0,0,0,.3);
+ 	display: flex;
+ }
+
+ .wp-block-block-examples-block-examples-05-media-upload-block .column {
+	display: flex;
+	flex-basis: 50%;
+	flex-direction: column;
+ }
+
+.wp-block-block-examples-block-examples-05-media-upload-block .recipe-image {
+	background: #f1f1f1;
+	min-height:100px;
+	text-align: center;
+}
+
+.wp-block-block-examples-block-examples-05-media-upload-block .recipe-image button {
+	margin-top: 30px;
+}
+
+.wp-block-block-examples-block-examples-05-media-upload-block .recipe-image button.image-button {
+	margin: 0;
+	padding: 0;
+	display: block;
+}
+
+.wp-block-block-examples-block-examples-05-media-upload-block .recipe-image img {
+	display: block;
+	z-index: 1;
+	position: relative;
+}
+
+.wp-block-block-examples-block-examples-05-media-upload-block h2 {
+	font-size: 1.5em;
+}
+
+.wp-block-block-examples-block-examples-05-media-upload-block ul {
+	padding-left: 2.5em !important;
+}
+
+/*# sourceMappingURL=style.build.css.map*/
